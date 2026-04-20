@@ -1,5 +1,5 @@
 # papers_Kang
-4/7 부터 꼭 읽어야 하는 논문.
+4/7 부터 꼭 읽어야 하는 논문. -> 논문 정리 https://blog.naver.com/muharvey/224258960755 
 
 1st. Denoising Diffusion Probabilistic Models
 
@@ -18,3 +18,12 @@ SDE 논문 정리 시작
 우선 순위 변경:
 
 sde보다 Generative Modeling by Estimating Gradients of the Data Distribution을 먼저 읽어야함 선행 연구임
+
+4/20 기준 논문 발표 완료
+
+------------------------------------------------------------------------------------------------
+
+4/20 부터 읽어야 하는 논문 
+
+1st. flow matching for generative model
+2nd. 후속 연구 하나 찾기
